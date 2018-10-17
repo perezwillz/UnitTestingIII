@@ -1,0 +1,45 @@
+{
+  "photo_manifest": {
+    "name": "Curiosity",
+    "landing_date": "2012-08-06",
+    "launch_date": "2011-11-26",
+    "status": "active",
+    "max_sol": 2167,
+    "max_date": "2018-09-10",
+    "total_photos": 341224,
+    "photos": [
+      {
+        "sol": 14,
+        "earth_date": "2012-08-20",
+        "total_photos": 70,
+        "cameras": [
+          "CHEMCAM",
+          "FHAZ",
+          "MAST",
+          "NAVCAM"
+        ]
+      },
+      {
+        "sol": 15,
+        "earth_date": "2012-08-21",
+        "total_photos": 58,
+        "cameras": [
+          "CHEMCAM",
+          "FHAZ",
+          "NAVCAM",
+          "RHAZ"
+        ]
+      },
+      {
+        "sol": 16,
+        "earth_date": "2012-08-22",
+        "total_photos": 78,
+        "cameras": [
+          "FHAZ",
+          "NAVCAM",
+          "RHAZ"
+        ]
+      }
+    ]
+  }
+}
